@@ -5,6 +5,7 @@ members = [
     "ALDS1/alds_1_1_a",
     "ALDS1/alds_1_1_d",
     "ALDS1/alds_1_2_a",
-    "ALDS1/alds_1_2_c",
     "ALDS1/alds_1_2_b",
+    "ALDS1/alds_1_2_c",
+    "ALDS1/alds_1_2_d",
 ]
