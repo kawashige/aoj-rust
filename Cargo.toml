@@ -27,4 +27,5 @@ members = [
     "ALDS1/alds_1_7_a",
     "ALDS1/alds_1_7_b",
     "ALDS1/alds_1_7_c",
+    "ALDS1/alds_1_7_d",
 ]
