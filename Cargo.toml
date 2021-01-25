@@ -51,4 +51,5 @@ members = [
     "GRL/grl_3_a",
     "GRL/grl_4_b",
     "GRL/grl_5_a",
+    "CGL/cgl_2_a",
 ]
