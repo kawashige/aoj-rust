@@ -53,6 +53,7 @@ members = [
     "GRL/grl_5_a",
     "CGL/cgl_1_a",
     "CGL/cgl_1_b",
+    "CGL/cgl_1_c",
     "CGL/cgl_2_a",
     "CGL/cgl_2_d",
 ]
