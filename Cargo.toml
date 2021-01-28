@@ -58,6 +58,7 @@ members = [
     "CGL/cgl_2_b",
     "CGL/cgl_2_c",
     "CGL/cgl_2_d",
+    "CGL/cgl_3_c",
     "CGL/cgl_7_d",
     "CGL/cgl_7_e",
 ]
