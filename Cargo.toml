@@ -64,4 +64,5 @@ members = [
     "CGL/cgl_7_d",
     "CGL/cgl_7_e",
     "DPL/dpl_1_a",
+    "DPL/dpl_1_b",
 ]
