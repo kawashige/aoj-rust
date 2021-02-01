@@ -3,6 +3,7 @@
 
 members = [
     "ALDS/alds_1_1_a",
+    "ALDS/alds_1_1_b",
     "ALDS/alds_1_1_c",
     "ALDS/alds_1_1_d",
     "ALDS/alds_1_2_a",
