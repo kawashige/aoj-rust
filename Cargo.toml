@@ -46,6 +46,7 @@ members = [
     "ALDS/alds_1_12_a",
     "ALDS/alds_1_12_b",
     "ALDS/alds_1_12_c",
+    "ALDS/alds_1_13_a",
     "DSL/dsl_1_a",
     "DSL/dsl_2_c",
     "GRL/grl_1_c",
